@@ -1,4 +1,7 @@
-# .
+# 
+-Nombre: Jesus Gustavo Santos Tirado
+-Email: a23311013@uthermosillo.edu.mx
+-GitHub: [@Gustavo06-san](https://github.com/Gustavo06-san)]
 
 This template should help get you started developing with Vue 3 in Vite.
 
